@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,59 +29,69 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:1" ;
-    skos:prefLabel "Brokopondo"@nld-Latn .
+    skos:prefLabel "Brokopondo"@nld-Latn ;
+    wdata:q7200235 "SR01" .
 
 <urn:mdciii:1603:16:740:1:10>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:10" ;
-    skos:prefLabel "Wanica"@nld-Latn .
+    skos:prefLabel "Wanica"@nld-Latn ;
+    wdata:q7200235 "SR10" .
 
 <urn:mdciii:1603:16:740:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:2" ;
-    skos:prefLabel "Commewijne"@nld-Latn .
+    skos:prefLabel "Commewijne"@nld-Latn ;
+    wdata:q7200235 "SR02" .
 
 <urn:mdciii:1603:16:740:1:3>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:3" ;
-    skos:prefLabel "Coronie"@nld-Latn .
+    skos:prefLabel "Coronie"@nld-Latn ;
+    wdata:q7200235 "SR03" .
 
 <urn:mdciii:1603:16:740:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:4" ;
-    skos:prefLabel "Marowijne"@nld-Latn .
+    skos:prefLabel "Marowijne"@nld-Latn ;
+    wdata:q7200235 "SR04" .
 
 <urn:mdciii:1603:16:740:1:5>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:5" ;
-    skos:prefLabel "Nickerie"@nld-Latn .
+    skos:prefLabel "Nickerie"@nld-Latn ;
+    wdata:q7200235 "SR05" .
 
 <urn:mdciii:1603:16:740:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:6" ;
-    skos:prefLabel "Para"@nld-Latn .
+    skos:prefLabel "Para"@nld-Latn ;
+    wdata:q7200235 "SR06" .
 
 <urn:mdciii:1603:16:740:1:7>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:7" ;
-    skos:prefLabel "Paramaribo"@nld-Latn .
+    skos:prefLabel "Paramaribo"@nld-Latn ;
+    wdata:q7200235 "SR07" .
 
 <urn:mdciii:1603:16:740:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:8" ;
-    skos:prefLabel "Saramacca"@nld-Latn .
+    skos:prefLabel "Saramacca"@nld-Latn ;
+    wdata:q7200235 "SR08" .
 
 <urn:mdciii:1603:16:740:1:9>
     obo:BFO_0000124 <urn:mcdiii:1603:16:740:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:740:1:9" ;
-    skos:prefLabel "Sipaliwini"@nld-Latn .
+    skos:prefLabel "Sipaliwini"@nld-Latn ;
+    wdata:q7200235 "SR09" .
 
