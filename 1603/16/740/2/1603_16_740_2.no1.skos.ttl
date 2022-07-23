@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:740()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:101" ;
     skos:prefLabel "Brownsweg"@nld-Latn ;
-    wdata:q7200235 "SR0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -101,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1001" ;
     skos:prefLabel "De Nieuwe Grond"@nld-Latn ;
-    wdata:q7200235 "SR1001" ;
 .
 
 <urn:mdciii:1603:16:740:2:1002>
@@ -110,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1002" ;
     skos:prefLabel "Domburg"@nld-Latn ;
-    wdata:q7200235 "SR1002" ;
 .
 
 <urn:mdciii:1603:16:740:2:1003>
@@ -119,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1003" ;
     skos:prefLabel "Houttuin"@nld-Latn ;
-    wdata:q7200235 "SR1003" ;
 .
 
 <urn:mdciii:1603:16:740:2:1004>
@@ -128,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1004" ;
     skos:prefLabel "Kwarasan"@nld-Latn ;
-    wdata:q7200235 "SR1004" ;
 .
 
 <urn:mdciii:1603:16:740:2:1005>
@@ -137,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1005" ;
     skos:prefLabel "Kwatta"@nld-Latn ;
-    wdata:q7200235 "SR1005" ;
 .
 
 <urn:mdciii:1603:16:740:2:1006>
@@ -146,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1006" ;
     skos:prefLabel "Lelydorp"@nld-Latn ;
-    wdata:q7200235 "SR1006" ;
 .
 
 <urn:mdciii:1603:16:740:2:1007>
@@ -155,7 +147,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:1007" ;
     skos:prefLabel "Saramacca Polder"@nld-Latn ;
-    wdata:q7200235 "SR1007" ;
 .
 
 <urn:mdciii:1603:16:740:2:102>
@@ -164,7 +155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:102" ;
     skos:prefLabel "Centrum"@nld-Latn ;
-    wdata:q7200235 "SR0102" ;
 .
 
 <urn:mdciii:1603:16:740:2:103>
@@ -173,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:103" ;
     skos:prefLabel "Klaaskreek"@nld-Latn ;
-    wdata:q7200235 "SR0103" ;
 .
 
 <urn:mdciii:1603:16:740:2:104>
@@ -182,7 +171,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:104" ;
     skos:prefLabel "Kwakoegron"@nld-Latn ;
-    wdata:q7200235 "SR0104" ;
 .
 
 <urn:mdciii:1603:16:740:2:105>
@@ -191,7 +179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:105" ;
     skos:prefLabel "Marechallkreek"@nld-Latn ;
-    wdata:q7200235 "SR0105" ;
 .
 
 <urn:mdciii:1603:16:740:2:106>
@@ -200,7 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:106" ;
     skos:prefLabel "Sarakreek"@nld-Latn ;
-    wdata:q7200235 "SR0106" ;
 .
 
 <urn:mdciii:1603:16:740:2:201>
@@ -209,7 +195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:201" ;
     skos:prefLabel "Alkmaar"@nld-Latn ;
-    wdata:q7200235 "SR0201" ;
 .
 
 <urn:mdciii:1603:16:740:2:202>
@@ -218,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:202" ;
     skos:prefLabel "Bakkie"@nld-Latn ;
-    wdata:q7200235 "SR0202" ;
 .
 
 <urn:mdciii:1603:16:740:2:203>
@@ -227,7 +211,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:203" ;
     skos:prefLabel "Margaretha"@nld-Latn ;
-    wdata:q7200235 "SR0203" ;
 .
 
 <urn:mdciii:1603:16:740:2:204>
@@ -236,7 +219,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:204" ;
     skos:prefLabel "Meerzorg"@nld-Latn ;
-    wdata:q7200235 "SR0204" ;
 .
 
 <urn:mdciii:1603:16:740:2:205>
@@ -245,7 +227,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:205" ;
     skos:prefLabel "Nieuw Amsterdam"@nld-Latn ;
-    wdata:q7200235 "SR0205" ;
 .
 
 <urn:mdciii:1603:16:740:2:206>
@@ -254,7 +235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:206" ;
     skos:prefLabel "Tamanredjo"@nld-Latn ;
-    wdata:q7200235 "SR0206" ;
 .
 
 <urn:mdciii:1603:16:740:2:301>
@@ -263,7 +243,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:301" ;
     skos:prefLabel "Johanna Maria"@nld-Latn ;
-    wdata:q7200235 "SR0301" ;
 .
 
 <urn:mdciii:1603:16:740:2:302>
@@ -272,7 +251,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:302" ;
     skos:prefLabel "Totness"@nld-Latn ;
-    wdata:q7200235 "SR0302" ;
 .
 
 <urn:mdciii:1603:16:740:2:303>
@@ -281,7 +259,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:303" ;
     skos:prefLabel "Welgelegen"@nld-Latn ;
-    wdata:q7200235 "SR0303" ;
 .
 
 <urn:mdciii:1603:16:740:2:401>
@@ -290,7 +267,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:401" ;
     skos:prefLabel "Albina"@nld-Latn ;
-    wdata:q7200235 "SR0401" ;
 .
 
 <urn:mdciii:1603:16:740:2:402>
@@ -299,7 +275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:402" ;
     skos:prefLabel "Galibi"@nld-Latn ;
-    wdata:q7200235 "SR0402" ;
 .
 
 <urn:mdciii:1603:16:740:2:403>
@@ -308,7 +283,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:403" ;
     skos:prefLabel "Moengo"@nld-Latn ;
-    wdata:q7200235 "SR0403" ;
 .
 
 <urn:mdciii:1603:16:740:2:404>
@@ -317,7 +291,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:404" ;
     skos:prefLabel "Moengo Tapu"@nld-Latn ;
-    wdata:q7200235 "SR0404" ;
 .
 
 <urn:mdciii:1603:16:740:2:405>
@@ -326,7 +299,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:405" ;
     skos:prefLabel "Patamacca"@nld-Latn ;
-    wdata:q7200235 "SR0405" ;
 .
 
 <urn:mdciii:1603:16:740:2:406>
@@ -335,7 +307,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:406" ;
     skos:prefLabel "Wanhatti"@nld-Latn ;
-    wdata:q7200235 "SR0406" ;
 .
 
 <urn:mdciii:1603:16:740:2:501>
@@ -344,7 +315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:501" ;
     skos:prefLabel "Groot Henar"@nld-Latn ;
-    wdata:q7200235 "SR0501" ;
 .
 
 <urn:mdciii:1603:16:740:2:502>
@@ -353,7 +323,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:502" ;
     skos:prefLabel "Nieuw Nickerie"@nld-Latn ;
-    wdata:q7200235 "SR0502" ;
 .
 
 <urn:mdciii:1603:16:740:2:503>
@@ -362,7 +331,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:503" ;
     skos:prefLabel "Oostelijke Polders"@nld-Latn ;
-    wdata:q7200235 "SR0503" ;
 .
 
 <urn:mdciii:1603:16:740:2:504>
@@ -371,7 +339,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:504" ;
     skos:prefLabel "Wageningen"@nld-Latn ;
-    wdata:q7200235 "SR0504" ;
 .
 
 <urn:mdciii:1603:16:740:2:505>
@@ -380,7 +347,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:505" ;
     skos:prefLabel "Westelijke Polders"@nld-Latn ;
-    wdata:q7200235 "SR0505" ;
 .
 
 <urn:mdciii:1603:16:740:2:601>
@@ -389,7 +355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:601" ;
     skos:prefLabel "Bigi Poika"@nld-Latn ;
-    wdata:q7200235 "SR0601" ;
 .
 
 <urn:mdciii:1603:16:740:2:602>
@@ -398,7 +363,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:602" ;
     skos:prefLabel "Carolina"@nld-Latn ;
-    wdata:q7200235 "SR0602" ;
 .
 
 <urn:mdciii:1603:16:740:2:603>
@@ -407,7 +371,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:603" ;
     skos:prefLabel "Para Noord"@nld-Latn ;
-    wdata:q7200235 "SR0603" ;
 .
 
 <urn:mdciii:1603:16:740:2:604>
@@ -416,7 +379,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:604" ;
     skos:prefLabel "Para Oost"@nld-Latn ;
-    wdata:q7200235 "SR0604" ;
 .
 
 <urn:mdciii:1603:16:740:2:605>
@@ -425,7 +387,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:605" ;
     skos:prefLabel "Para Zuid"@nld-Latn ;
-    wdata:q7200235 "SR0605" ;
 .
 
 <urn:mdciii:1603:16:740:2:701>
@@ -434,7 +395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:701" ;
     skos:prefLabel "Beekhuizen"@nld-Latn ;
-    wdata:q7200235 "SR0701" ;
 .
 
 <urn:mdciii:1603:16:740:2:702>
@@ -443,7 +403,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:702" ;
     skos:prefLabel "Blauwgrond"@nld-Latn ;
-    wdata:q7200235 "SR0702" ;
 .
 
 <urn:mdciii:1603:16:740:2:703>
@@ -452,7 +411,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:703" ;
     skos:prefLabel "Centrum"@nld-Latn ;
-    wdata:q7200235 "SR0703" ;
 .
 
 <urn:mdciii:1603:16:740:2:704>
@@ -461,7 +419,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:704" ;
     skos:prefLabel "Flora"@nld-Latn ;
-    wdata:q7200235 "SR0704" ;
 .
 
 <urn:mdciii:1603:16:740:2:705>
@@ -470,7 +427,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:705" ;
     skos:prefLabel "Latour"@nld-Latn ;
-    wdata:q7200235 "SR0705" ;
 .
 
 <urn:mdciii:1603:16:740:2:706>
@@ -479,7 +435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:706" ;
     skos:prefLabel "Livorno"@nld-Latn ;
-    wdata:q7200235 "SR0706" ;
 .
 
 <urn:mdciii:1603:16:740:2:707>
@@ -488,7 +443,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:707" ;
     skos:prefLabel "Munder"@nld-Latn ;
-    wdata:q7200235 "SR0707" ;
 .
 
 <urn:mdciii:1603:16:740:2:708>
@@ -497,7 +451,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:708" ;
     skos:prefLabel "Pontbuiten"@nld-Latn ;
-    wdata:q7200235 "SR0708" ;
 .
 
 <urn:mdciii:1603:16:740:2:709>
@@ -506,7 +459,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:709" ;
     skos:prefLabel "Rainville"@nld-Latn ;
-    wdata:q7200235 "SR0709" ;
 .
 
 <urn:mdciii:1603:16:740:2:710>
@@ -515,7 +467,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:710" ;
     skos:prefLabel "Tammenga"@nld-Latn ;
-    wdata:q7200235 "SR0710" ;
 .
 
 <urn:mdciii:1603:16:740:2:711>
@@ -524,7 +475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:711" ;
     skos:prefLabel "Weg Naar Zee"@nld-Latn ;
-    wdata:q7200235 "SR0711" ;
 .
 
 <urn:mdciii:1603:16:740:2:712>
@@ -533,7 +483,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:712" ;
     skos:prefLabel "Welgelegen"@nld-Latn ;
-    wdata:q7200235 "SR0712" ;
 .
 
 <urn:mdciii:1603:16:740:2:801>
@@ -542,7 +491,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:801" ;
     skos:prefLabel "Calcutta"@nld-Latn ;
-    wdata:q7200235 "SR0801" ;
 .
 
 <urn:mdciii:1603:16:740:2:802>
@@ -551,7 +499,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:802" ;
     skos:prefLabel "Groningen"@nld-Latn ;
-    wdata:q7200235 "SR0802" ;
 .
 
 <urn:mdciii:1603:16:740:2:803>
@@ -560,7 +507,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:803" ;
     skos:prefLabel "Jarikaba"@nld-Latn ;
-    wdata:q7200235 "SR0803" ;
 .
 
 <urn:mdciii:1603:16:740:2:804>
@@ -569,7 +515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:804" ;
     skos:prefLabel "Kampong Baroe"@nld-Latn ;
-    wdata:q7200235 "SR0804" ;
 .
 
 <urn:mdciii:1603:16:740:2:805>
@@ -578,7 +523,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:805" ;
     skos:prefLabel "Tijgerkreek"@nld-Latn ;
-    wdata:q7200235 "SR0805" ;
 .
 
 <urn:mdciii:1603:16:740:2:806>
@@ -587,7 +531,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:806" ;
     skos:prefLabel "Wayambo"@nld-Latn ;
-    wdata:q7200235 "SR0806" ;
 .
 
 <urn:mdciii:1603:16:740:2:901>
@@ -596,7 +539,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:901" ;
     skos:prefLabel "Boven Coppename"@nld-Latn ;
-    wdata:q7200235 "SR0901" ;
 .
 
 <urn:mdciii:1603:16:740:2:902>
@@ -605,7 +547,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:902" ;
     skos:prefLabel "Boven Saramacca"@nld-Latn ;
-    wdata:q7200235 "SR0902" ;
 .
 
 <urn:mdciii:1603:16:740:2:903>
@@ -614,7 +555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:903" ;
     skos:prefLabel "Boven Suriname"@nld-Latn ;
-    wdata:q7200235 "SR0903" ;
 .
 
 <urn:mdciii:1603:16:740:2:904>
@@ -623,7 +563,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:904" ;
     skos:prefLabel "Coeroenie"@nld-Latn ;
-    wdata:q7200235 "SR0904" ;
 .
 
 <urn:mdciii:1603:16:740:2:905>
@@ -632,7 +571,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:905" ;
     skos:prefLabel "Kabalebo"@nld-Latn ;
-    wdata:q7200235 "SR0905" ;
 .
 
 <urn:mdciii:1603:16:740:2:906>
@@ -641,6 +579,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:740:2:906" ;
     skos:prefLabel "Tapanahony"@nld-Latn ;
-    wdata:q7200235 "SR0906" ;
 .
 
